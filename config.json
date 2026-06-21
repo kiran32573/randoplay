@@ -1,29 +1,29 @@
 {
   "teenpatti_master": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "spin",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.vibertamy.app"
   },
 
   "teenpatti_gold": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "match",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold"
   },
 
   "teenpatti_old": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "spin",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=io.teenpatti.master.nwtr99"
   },
 
   "teenpatti_2026": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "match",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.bavgames.ucp"
   }
 }
