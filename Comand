@@ -1,0 +1,93 @@
+Default: 
+{
+  "teenpatti_master": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "spin",
+    "url": ""
+  },
+
+  "teenpatti_gold": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "match",
+    "url": ""
+  },
+
+  "teenpatti_old": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "spin",
+    "url": ""
+  },
+
+  "teenpatti_2026": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "match",
+    "url": ""
+  }
+}
+-----------------------------------------------
+Link Open on Details Page:
+{
+  "teenpatti_master": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://example.com/game1"
+  },
+
+  "teenpatti_gold": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://example.com/game2"
+  },
+
+  "teenpatti_old": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://example.com/game3"
+  },
+
+  "teenpatti_2026": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://example.com/game4"
+  }
+}
+-----------------------------------------------
+Link Open Directly from Home:
+{
+  "teenpatti_master": {
+    "home_action": "link",
+    "play_action": "game",
+    "game": "",
+    "url": "https://example.com/game1"
+  },
+
+  "teenpatti_gold": {
+    "home_action": "link",
+    "play_action": "game",
+    "game": "",
+    "url": "https://example.com/game2"
+  },
+
+  "teenpatti_old": {
+    "home_action": "link",
+    "play_action": "game",
+    "game": "",
+    "url": "https://example.com/game3"
+  },
+
+  "teenpatti_2026": {
+    "home_action": "link",
+    "play_action": "game",
+    "game": "",
+    "url": "https://example.com/game4"
+  }
+}
+-----------------------------------------------
