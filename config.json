@@ -1,0 +1,29 @@
+{
+  "teenpatti_master": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "spin",
+    "url": ""
+  },
+
+  "teenpatti_gold": {
+    "home_action": "details",
+    "play_action": "game",
+    "game": "match",
+    "url": ""
+  },
+
+  "teenpatti_old": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://google.com"
+  },
+
+  "teenpatti_2026": {
+    "home_action": "details",
+    "play_action": "link",
+    "game": "",
+    "url": "https://google.com"
+  }
+}
