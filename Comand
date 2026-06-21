@@ -35,28 +35,28 @@ Link Open on Details Page:
     "home_action": "details",
     "play_action": "link",
     "game": "",
-    "url": "https://example.com/game1"
+    "url": "https://play.google.com/store/apps/details?id=com.vibertamy.app"
   },
 
   "teenpatti_gold": {
     "home_action": "details",
     "play_action": "link",
     "game": "",
-    "url": "https://example.com/game2"
+    "url": "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold"
   },
 
   "teenpatti_old": {
     "home_action": "details",
     "play_action": "link",
     "game": "",
-    "url": "https://example.com/game3"
+    "url": "https://play.google.com/store/apps/details?id=io.teenpatti.master.nwtr99"
   },
 
   "teenpatti_2026": {
     "home_action": "details",
     "play_action": "link",
     "game": "",
-    "url": "https://example.com/game4"
+    "url": "https://play.google.com/store/apps/details?id=com.bavgames.ucp"
   }
 }
 -----------------------------------------------
@@ -66,28 +66,28 @@ Link Open Directly from Home:
     "home_action": "link",
     "play_action": "game",
     "game": "",
-    "url": "https://example.com/game1"
+    "url": "https://play.google.com/store/apps/details?id=com.vibertamy.app"
   },
 
   "teenpatti_gold": {
     "home_action": "link",
     "play_action": "game",
     "game": "",
-    "url": "https://example.com/game2"
+    "url": "https://play.google.com/store/apps/details?id=com.teenpatti.hd.gold"
   },
 
   "teenpatti_old": {
     "home_action": "link",
     "play_action": "game",
     "game": "",
-    "url": "https://example.com/game3"
+    "url": "https://play.google.com/store/apps/details?id=io.teenpatti.master.nwtr99"
   },
 
   "teenpatti_2026": {
     "home_action": "link",
     "play_action": "game",
     "game": "",
-    "url": "https://example.com/game4"
+    "url": "https://play.google.com/store/apps/details?id=com.bavgames.ucp"
   }
 }
 -----------------------------------------------
