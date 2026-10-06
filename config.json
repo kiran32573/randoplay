@@ -22,8 +22,8 @@
 
   "teenpatti_2026": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "match",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.bavgames.ucp"
   }
 }
