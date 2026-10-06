@@ -8,22 +8,22 @@
 
   "teenpatti_gold": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "match",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.bavgames.ucp&pcampaignid=web_share"
   },
 
   "teenpatti_old": {
-    "home_action": "details",
+    "home_action": "link",
     "play_action": "game",
-    "game": "spin",
-    "url": ""
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.rivioplaystudios.rp&pcampaignid=web_share"
   },
 
   "teenpatti_2026": {
     "home_action": "details",
-    "play_action": "game",
-    "game": "match",
-    "url": ""
+    "play_action": "link",
+    "game": "",
+    "url": "https://play.google.com/store/apps/details?id=com.avsar.tpspinmaster&pcampaignid=web_share"
   }
 }
